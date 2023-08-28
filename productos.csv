@@ -1,0 +1,12 @@
+001,Electrodomésticos,E001,Lavadora,500.00,10
+001,Electrodomésticos,E002,Refrigerador,800.00,5
+001,Electrodomésticos,E003,Lavaplatos,300.00,2
+001,Electrodomésticos,E003,microhondas,200.00,3
+002,Muebles,M001,Sofá,300.00,8
+002,Muebles,M002,Mesa de comedor,150.00,15
+002,Muebles,M002,Mesa de noche,100.00,5
+002,Muebles,M002,Silla,20.00,5
+003,Herramientas,H001,Taladro,100.00,20
+003,Herramientas,H002,Destornillador,10.00,50
+003,Herramientas,H003,Pinzas,107.00,10
+003,Herramientas,H004,Martillo,90.00,12

@@ -1,0 +1,9 @@
+001	Electrodomésticos	ListaProductos
+E001	Lavadora	499.99	10
+E002	Refrigerador	799.99	15
+002	Muebles	ListaProductos
+M001	Sofá	299.99	5
+M002	Mesa de comedor	199.99	8
+003	Herramientas	ListaProductos
+H001	Taladro	79.99	20
+H002	Destornillador	9.99	50
